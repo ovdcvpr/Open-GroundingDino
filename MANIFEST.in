@@ -1,0 +1,2 @@
+recursive-include open_groundingdino/ *.py
+recursive-include open_groundingdino/models/GroundingDINO/ops/ *.cu *.h *.cuh *.cpp
